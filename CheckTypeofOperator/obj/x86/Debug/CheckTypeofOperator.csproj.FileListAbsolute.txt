@@ -1,0 +1,4 @@
+D:\day2\CheckTypeofOperator\CheckTypeofOperator\bin\Debug\CheckTypeofOperator.exe
+D:\day2\CheckTypeofOperator\CheckTypeofOperator\bin\Debug\CheckTypeofOperator.pdb
+D:\day2\CheckTypeofOperator\CheckTypeofOperator\obj\x86\Debug\CheckTypeofOperator.exe
+D:\day2\CheckTypeofOperator\CheckTypeofOperator\obj\x86\Debug\CheckTypeofOperator.pdb
